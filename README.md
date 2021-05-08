@@ -1,6 +1,26 @@
-¿Quieres ser mi amigo?
+<!DOCTYPE html>
+<html lang="en">
 
-<!---
-Rosicu/Rosicu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->.  Si.   No.    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeclarateWey</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">
+            Quieres ser mi novio?
+        </div>
+
+        <div class="buttons">
+            <button id="btnyes" class="btn">Si</button>
+            <button id="btnno" class="btn">No</button>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
